@@ -1,0 +1,14 @@
+{
+  "name": "oppewdiepieprint",
+  "version": "13.3.7",
+  "description": "For research purposes, SKIDS DONT STEAL",
+  "main": "index_lpd.js",
+  "scripts": {
+    "test": "echo \"SUBSCRIBE TO PEWDIEPIE AND FIX YOUR PRINTER\""
+  },
+  "author": "HackerGiraffe",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
